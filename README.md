@@ -28,8 +28,7 @@ Built with modern JavaScript, Tailwind CSS, and advanced CSS techniques, Amandar
 
 The codename **"Amandaraga"** comes from the Waray-Waray language of Eastern Visayas, Philippines—the home region of JohnLC Studios. The word carries deep cultural significance:
 
-- **"Amando"** — to love, to cherish
-- **"Raga"** — a suffix denoting state or condition
+- **"Amandaraga"** — A beautiful waterfalls located in Lawaan Eastern Samar. Amandaraga Falls is the top tourist destinations in Lawaan, Eastern Samar. This majestic waterfall has an artistic rock formation on the side.
 
 Together, **Amandaraga** translates to "the state of being cherished" or "beloved." This name reflects our philosophy that technology should be crafted with love and designed to be cherished by its users. Every feature, animation, and interaction in this version has been developed with care and attention to detail, embodying the spirit of creating something truly beloved.
 
@@ -145,9 +144,9 @@ JohnLC OS v27 "Amandaraga" is built on four core principles:
 
 | Version | Codename | Release | Highlights |
 |---------|----------|---------|------------|
-| v27 | Amandaraga | 2024 | Glassmorphism redesign, new dock, enhanced apps |
-| v26 | — | 2023 | Application improvements, bug fixes |
-| v25 | — | 2023 | Initial public release |
+| v27 | Amandaraga | 2026 | Glassmorphism redesign, new dock, enhanced apps |
+| v26 | Calicoan | 2025 | Application improvements, bug fixes, UI Enhancements |
+| v25 | Guiuan | 2023 | Initial public release |
 
 ---
 
@@ -235,7 +234,7 @@ Key highlights:
 
 This project showcases what's possible with modern web technologies, pushing the boundaries of browser-based experiences.
 
-Try it live: [link]
+Try it live: [[link]](https://johnlcstudios.kesug.com/johnlc-os-27/Amandaraga.html)
 
 #WebDevelopment #JavaScript #UIUX #FrontEnd #Innovation #TechShowcase
 ```
